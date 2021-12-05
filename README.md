@@ -17,7 +17,7 @@ In this project I have automated https://www.daraz.com.bd/ web application using
     - IDE: Eclipse
 
 ### Pre-Requisites:
-    - Open/install Java JDK 17 version on your PC
+    - Open/install Java JDK 8 version on your PC
     - Install Maven on your PC
     - Install TestNG on your IDE
     - Install Eclipse/STS or any other IDE
