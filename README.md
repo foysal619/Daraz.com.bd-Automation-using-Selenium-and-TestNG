@@ -1,5 +1,6 @@
 # Daraz.com.bd Automation using Selenium and TestNG
 
+[Wroking going on - Repository will update soon] 
 In this project I have automated https://www.daraz.com.bd/ web application using Selenium and TestNG. 
 ### Here i have worked on
 - Product View
