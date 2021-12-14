@@ -1,15 +1,26 @@
 # Daraz.com.bd Automation using Selenium and TestNG
 
-[Wroking going on - Repository will update soon] 
 In this project I have automated https://www.daraz.com.bd/ web application using Selenium and TestNG. 
+
 ### Here i have worked on
-- Product View
-- Login
+- sendkeys
+- getText()
+- Click
 - Assertion
 - iFrame Handling
 - Hover Handling
-- Select Box
+- Checkbox
 - Dropdown
+
+### Which operations i dit in this test case
+- Visit the website
+- Print the homepage title, category and verify the page title
+- Select the category by handing hover
+- Select the category of product by clicking checkbox
+- Open the product info for add to cart
+- Login with info by iframe handling
+- Inserting the address info using dropdown function
+- Logout
 
 ### Technology used
     - Test tool: Selenium
