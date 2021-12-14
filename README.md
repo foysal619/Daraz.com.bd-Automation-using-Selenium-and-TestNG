@@ -12,7 +12,7 @@ In this project I have automated https://www.daraz.com.bd/ web application using
 - Checkbox
 - Dropdown
 
-### Which operations i dit in this test case
+### Which operations i did in this test case
 - Visit the website
 - Print the homepage title, category and verify the page title
 - Select the category by handing hover
